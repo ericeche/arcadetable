@@ -11,6 +11,7 @@ coffee/arcade game table without losing the original function:
 5. Coffee table dimensions ( see image )
 
 
+Figure 1. Aracade dimensions [arcade coffee table](https://www.droidaddiction.com/arcadetable.png)
 
 
 
@@ -18,7 +19,7 @@ coffee/arcade game table without losing the original function:
 
 ## Avail wood pieces
 
-| | ATmega328P(Old Bootloader)  | Projected Cost ATmega328P(Old Bootloader)|
+| width| high  | thickness|
 | -------------------------- | ------------------------------------ | ------------------------------------ |
 |47|31| 0.81 |
 |47|24|0.65|
