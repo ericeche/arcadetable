@@ -12,6 +12,10 @@ coffee/arcade game table without losing the original function:
 
 
 ![alt text](http://www.droidaddiction.com/arcadetable.png "Logo Title Text 1")
+![alt text](http://www.droidaddiction.com/arcadetable1.png "Logo Title Text 1")
+![alt text](http://www.droidaddiction.com/arcadetable2.png "Logo Title Text 1")
+
+
 
 
 
