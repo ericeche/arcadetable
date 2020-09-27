@@ -8,6 +8,7 @@ coffee/arcade game table without losing the original function:
 2. Maximum flat TV screen 36 in ( 3ft)  x 24 in ch (2 ft) x 4 inch 
 3. Minimum flat TV screen 26 inch x 17.5 inch x 4 inch 
 4. Glass or Plastic material will go on top of TV screen
+5. Coffee table dimensions ( see image )
 
 
 
@@ -15,14 +16,14 @@ coffee/arcade game table without losing the original function:
 
 #Design Choices
 
-## Micro Processor Choice
+## Avail wood pieces
 
-| | Wood Pieces  | width - inches|
-| High - inches| thickness - inches| ------------------------------------ |
-|47 |31| 0.81 |
-|47|24|0.65 |
-|35|17.5| 1.0|
-|35|27.5| 1.0|
-|35|27.5| 1.0|
+| | ATmega328P(Old Bootloader)  | Projected Cost ATmega328P(Old Bootloader)|
+| -------------------------- | ------------------------------------ | ------------------------------------ |
+|47|31| 0.81 |
+|47|24|0.65|
+|35|15.5| 1|
+|35|27.5| 1|
+|35|27.5| 1|
 
 
