@@ -11,7 +11,8 @@ coffee/arcade game table without losing the original function:
 5. Coffee table dimensions ( see image )
 
 
-Figure 1. Aracade dimensions [arcade coffee table](https://www.droidaddiction.com/arcadetable.png)
+![alt text](http://www.droidaddiction.com/arcadetable.png "Logo Title Text 1")
+
 
 
 
