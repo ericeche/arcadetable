@@ -4,11 +4,11 @@ Arcade Game Table
 coffee/arcade game table without losing the original function:
 
 1. Arcade coffee table needs to be made with existing wood pieces
-1. Table needs to be delivered flat unassembled
-2. Maximum flat TV screen 36 in ( 3ft)  x 24 in ch (2 ft) x 4 inch 
-3. Minimum flat TV screen 26 inch x 17.5 inch x 4 inch 
-4. Glass or Plastic material will go on top of TV screen
-5. Coffee table dimensions ( see image )
+2. Table needs to be delivered flat unassembled
+3. Maximum flat TV screen 36 in ( 3ft)  x 24 in ch (2 ft) x 4 inch 
+4. Minimum flat TV screen 26 inch x 17.5 inch x 4 inch 
+5. Glass or Plastic material will go on top of TV screen
+6. Coffee table dimensions ( 47.2 inch x 27.5 inch x 17 inch )
 
 
 ![alt text](http://www.droidaddiction.com/arcadetable.png "Logo Title Text 1")
